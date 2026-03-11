@@ -1,30 +1,22 @@
-# Ronald Ricardo Tambunan - Data Analyst Portfolio 🚀
+🙋🏻‍♂️ Introducing Myself
 
-Data Analyst | SQL | Python | Microsoft 365 | BI
+![Ronald Ricardo - Banner Portofolio Data Analyst](Ronald Ricardo - Banner Portofolio Data Analyst.png)
 
-## 🛠️ Tech Stack
-| Skill | Tools |
-|-------|-------|
-| SQL | PostgreSQL, BigQuery, SQL Server |
-| Python | Pandas, NumPy |
-| BI | Power BI, Tableau |
-| Office | Excel Advanced |
+Hello, I'm **Ronald Ricardo Tambunan**. Junior Data Analyst passionate about turning raw data into actionable insights.
 
-## 📊 Projects & Skills
-- **Data Analyst**     : SQL, Power BI, Excel
-- **Advanced SQL**     : CTE, Window Functions, Views, ETL  
-- **Intermediate Power BI** : Data Cleaning, Data Transform, Dashboard, DAX
-- **Microsoft 365**    : Excel (Form Template Creating, Data Cleaning, Dashboard, Advance Formula)
+Querying & analyzing data using **SQL** 
+Building interactive dashboards with **Power BI**.  
+Data cleaning & transformation using **Python Pandas, Excel Formula, Power BI Transform Data**.  
+Advanced reporting & automation with **Excel**.
 
-## 🚀 Featured Projects
+📚 **Projects**  
+Welcome to my portfolio, where I showcase my **[NHTSA Crash Analysis](https://github.com/ronaldricardo/ronaldricardo-portofolio)**.
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **NHTSA Crash Analysis** | Texas #1 (3,513 crashes), Drunk Driver 25.8%, Urban 57.5%, 13 Advanced SQL queries | PostgreSQL, pgAdmin, Excel, Canva | [🔗 View Repo](https://github.com/ronaldricardo/nhtsa-crash-analysis) |
+🛠️ **Tools**  
+**Language:** SQL, Python  
+**Database:** PostgreSQL, BigQuery, SQL Server
+**Visualization:** Power BI, Tableau, Looker Studio
 
-
-## 📫 Let's Connect
-[![Ronald Ricardo LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Ricardo-blue)](https://www.linkedin.com/in/ronaldricardo)
+👋🏻 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Ricardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldricardo)  
 📧 [rricardot7@gmail.com](mailto:rricardot7@gmail.com)
-
-![Banner](Ronald Ricardo - Banner Portofolio Data Analyst.png)
