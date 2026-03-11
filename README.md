@@ -16,8 +16,12 @@ Data Analyst | SQL | Python | Microsoft 365 | BI
 - **Intermediate Power BI** : Data Cleaning, Data Transform, Dashboard, DAX
 - **Microsoft 365**    : Excel (Form Template Creating, Data Cleaning, Dashboard, Advance Formula)
 
-**Project**
-- Data Analyst (SQL, Excel, Power BI) : **National Highway Traffic Safety Administration - 2023**
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **NHTSA Crash Analysis** | Texas #1 (3,513 crashes), Drunk Driver 25.8%, Urban 57.5%, 13 Advanced SQL queries | PostgreSQL, pgAdmin, Excel, Canva | [🔗 View Repo](https://github.com/ronaldricardo/nhtsa-crash-analysis) |
+
 
 ## 📫 Let's Connect
 [![Ronald Ricardo LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Ricardo-blue)](https://www.linkedin.com/in/ronaldricardo)
