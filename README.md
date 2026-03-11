@@ -3,11 +3,12 @@
 Data Analyst | SQL (PostgreSQL, BigQuery, SQL Server) | Python (Pandas, NumPy) | Microsoft 365 (Excel Advanced) | BI (Power BI, Tableau)
 
 ## 🛠️ Tech Stack
-|        SQL       |  Python |     BI Tools    |     Microsoft 365     |
-|------------------|---------|-----------------|-----------------------|
-|     PostgreSQL   | Pandas  |     Power BI    |    Excel Advanced     |
-|     BigQuery     | NumPy   |      Tableau    |       PowerPoint      |
-|     SQL Server   |         |  Looker Studio  |          Word         |
+| Skill | Tools |
+|-------|-------|
+| SQL | PostgreSQL, BigQuery, SQL Server |
+| Python | Pandas, NumPy |
+| BI | Power BI, Tableau |
+| Office | Excel Advanced |
 
 ## 📊 Projects & Skills
 Skill
@@ -23,4 +24,4 @@ Project
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ronaldrt) 
 📧 ronaldricardo@email.com
 
-![Portfolio Banner](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Data+Analyst+Portfolio)
+![Banner](Ronald Ricardo - Banner Portofolio Data Analyst.png)
